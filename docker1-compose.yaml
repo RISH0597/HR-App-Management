@@ -22,4 +22,3 @@ services:
     container_name: cart-app
     ports:
       - "3001:3000"    
-
